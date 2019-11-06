@@ -9,7 +9,7 @@ A cool, customisable, Graphical, simple to use, easy Autoclicker for windows cod
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FZeWhiteHatHacker%2FGUIAutoclicker" align="" hspace="10" vspace="10px">
 </a>
 
--
+~
 
 **LICENSE & COPYRIGHT INFO**
 
