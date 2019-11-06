@@ -32,7 +32,7 @@ If you want to modify, distribute etc you must include my license and the same o
 ## Download
 
 [![Python file](http://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png)](https://link-to.net/53241/downloadpyfile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![EXE file](http://icons.iconarchive.com/icons/pelfusion/flat-file-type/128/exe-icon.png)](https://pastebin.com/ma9xw8yt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![EXE file](http://icons.iconarchive.com/icons/pelfusion/flat-file-type/128/exe-icon.png)](https://link-to.net/53241/GUIGitHubExeDownload)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Donate
