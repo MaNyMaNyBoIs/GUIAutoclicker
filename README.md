@@ -23,7 +23,7 @@ If you want to modify, distribute etc you must include my license and the same o
 
 > 👉 Code by BayMaxYT: https://bit.ly/BayMaxYT
 
-> 🔗 Available on GitHub: ttps://bit.ly/GUIAutoclickerGitHub
+> 🔗 Available on GitHub: https://bit.ly/GUIAutoclickerGitHub
 
 > ############################################################
 
