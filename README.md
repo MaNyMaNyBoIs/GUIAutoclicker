@@ -1,8 +1,15 @@
 # GUIAutoclicker
 A cool, customisable, Graphical, simple to use, easy Autoclicker for windows coded in Python.
 
-## Latest version: __V1.0__
+<a href="https://github.com/ZeWhiteHatHacker/GUIAutoclicker/releases">
+    <img src="https://img.shields.io/github/v/release/ZeWhiteHatHacker/GUIAutoclicker?color=green&label=Latest%20Release">
+</a>
 
+<a href="https://twitter.com/ArthurAB9">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FZeWhiteHatHacker%2FGUIAutoclicker" align="" hspace="10" vspace="10px">
+</a>
+
+-
 
 **LICENSE & COPYRIGHT INFO**
 
@@ -12,13 +19,13 @@ If you want to modify, distribute etc you must include my license and the same o
 
 ▶ If you show this off (use the app or use some code) in a YouTube or Vimeo, Facebook, Twitter, Instagram or any other social media video, you must include the following paragraph wherever you want in your video description/post/upload/share: ◀*
 
-> #####################################################
+> ############################################################
 
 > 👉 Code by BayMaxYT: https://bit.ly/BayMaxYT
 
-> 🔗 Available on GitHub: http://bit.ly/DinoExtGitHub
+> 🔗 Available on GitHub: ttps://bit.ly/GUIAutoclickerGitHub
 
-> #####################################################
+> ############################################################
 
 
 
